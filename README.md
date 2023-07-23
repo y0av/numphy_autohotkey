@@ -13,7 +13,7 @@ This repository contains an AutoHotkey script that provides custom keyboard shor
 git clone https://github.com/y0av/numphy_autohotkey.git
 ```
 
-3. Run the Script: After installing AutoHotkey v2.0 and cloning the repository, navigate to the repository directory and double-click the `capslock_shortcuts.ahk` file. This will run the AutoHotkey script.
+3. Run the Script: After installing AutoHotkey v2.0 and cloning the repository, navigate to the repository directory and double-click the `autohotkey_numphy_profile.ahk` file. This will run the AutoHotkey script.
 
 4. Utilize the Shortcuts: The script provides the following keyboard shortcuts using the CapsLock key as a modifier:
 

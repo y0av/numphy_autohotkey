@@ -20,3 +20,17 @@ CapsLock & n::End
 CapsLock & d::Send "{Volume_Up}"
 CapsLock & s::Send "{Volume_Down}"
 CapsLock & f::Send "{Volume_Mute}"
+LWin & Left::
+{
+    if GetKeyState("Shift")
+        Send "+{Home}"
+    else
+        Send "{Home}"
+}
+LWin & Right::
+{
+    if GetKeyState("Shift")
+        Send "+{End}"
+    else
+        Send "{End}"
+}
