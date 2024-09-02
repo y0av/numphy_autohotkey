@@ -34,3 +34,4 @@ LWin & Right::
     else
         Send "{End}"
 }
+PgUp::PrintScreen
